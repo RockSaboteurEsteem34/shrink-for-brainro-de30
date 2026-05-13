@@ -1,4 +1,4 @@
-#  
+#  advanced Script for death ball offers the most advanced death ball Script, with infinite resources and auto-farm. Perfect for dominating any match.
 
 
 
